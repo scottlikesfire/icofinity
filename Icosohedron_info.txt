@@ -1,0 +1,16 @@
+This document just contains general information about the icosahedron 
+that may be useful 
+
+faces: 20
+vertices: 12
+edges: 30
+
+for my icosahedron
+triangle edges: 150mm
+number of leds: 20 (for now)
+
+led strip: WS2812B 144Leds/m 
+
+Total LEDS 600
+
+requires 4m of strip
